@@ -1,5 +1,5 @@
 
-# TCU Chatbot
+# Ask the Frog - A Chatbot for TCU
 
 This project is a comprehensive chatbot for Texas Christian University (TCU) built using [Next.js](https://nextjs.org/) and the [OpenAI GPT-API](https://platform.openai.com/). The chatbot is designed to provide detailed and accurate answers to a wide range of questions related to TCU, including campus locations, housing options, faculty and department information, event schedules, professor ratings, programs, and more.
 
